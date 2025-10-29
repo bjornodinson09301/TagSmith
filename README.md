@@ -15,6 +15,6 @@ Click About to see version info.
 
 Enjoy quick, safe, and fun password and gamertag generation!
 
-Version: 1.0
+Version: 1.1
 
 Made by: Björn Vidar Odinson
